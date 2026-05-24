@@ -1,18 +1,24 @@
 # Secure Code Review Framework
 
-A modular DevSecOps platform using:
+## Features
+- Static Code Analysis
+- OWASP SAST
+- Secret Detection
+- Dependency Security
+- CI/CD Integration
+- RBAC
+- Reporting Dashboards
 
+## Tools Used
 - SonarQube
 - Semgrep
-- CodeQL
 - Gitleaks
 - OWASP Dependency-Check
 - Grafana
-- Keycloak
+- GitHub Actions
 
-Supports:
-- Static code analysis
-- Vulnerability scanning
-- Secret detection
-- Compliance reporting
-- CI/CD integration
+## Setup Instructions
+## Architecture
+## Security Workflow
+## Screenshots
+## Reports
